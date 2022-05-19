@@ -1,2 +1,1 @@
-this is the collaboration edit
-correct edit
+I am adding sth to A's repo
